@@ -1,0 +1,11 @@
+ADMIN :
+username : aris@admin.com
+password : admin
+
+OWNER :
+username : aris@owner.com
+password : owner
+
+OPERATOR :
+username : alfin@free.com
+password : alfin
